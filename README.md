@@ -18,6 +18,12 @@ It predicts:
 
 ---
 
+## 📸 Screenshot
+
+![App Screenshot](screenshot.png)
+
+---
+
 ## 📁 Project Structure
 
 ```text
@@ -141,12 +147,3 @@ before launching Streamlit.
 
 ### Column mismatch error
 Check column names in CSV are exact (same spelling/case).
-
----
-
-## 📌 Future Improvements
-
-- Add model comparison (Decision Tree / Random Forest / XGBoost)
-- Add feature importance chart
-- Add downloadable prediction report
-- Deploy app on Streamlit Cloud / Render
